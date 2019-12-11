@@ -1,0 +1,261 @@
+ @import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700");
+ body {
+     font-family: "Roboto Condensed", sans-serif;
+     font-weight: normal;
+     font-style: normal;
+     color: #666666;
+     font-size: 14px;
+ }
+ 
+ .ml-36 {
+     margin-left: 36px;
+ }
+ 
+ .ml-35 {
+     margin-left: 35px;
+ }
+ 
+ .mt-35 {
+     margin-top: 35px;
+ }
+ 
+ .mt-40 {
+     margin-top: 40px;
+ }
+ 
+ .mr-190 {
+     margin-right: 190px;
+ }
+ 
+ .pb-130 {
+     padding-bottom: 130px;
+ }
+ 
+ .display-4 {
+     font-size: 2rem;
+     font-weight: 400;
+     line-height: 1.2;
+ }
+ 
+ .l-title {
+     font-size: 24px;
+     font-weight: 500;
+ }
+ 
+ .small,
+ small {
+     font-size: 100%;
+     font-weight: 400;
+ }
+ 
+ .mainprogress {
+     width: 900px;
+     height: 10px;
+     background-color: #E6E6E6;
+ }
+ 
+ .progressbar {
+     width: 50%;
+     height: 10px;
+     background-color: #FAA519;
+ }
+ 
+ .progressbar ul {
+     margin: 0px;
+     padding: 0px;
+     list-style: none;
+ }
+ 
+ .progressbar ul li:nth-child(1):after {
+     position: absolute;
+     content: "";
+     top: -8px;
+     left: -1px;
+     background-color: #FAA519;
+     width: 25px;
+     height: 25px;
+     border-radius: 50%;
+ }
+ 
+ .progressbar ul li:nth-child(2):after {
+     position: absolute;
+     content: "";
+     top: -8px;
+     left: 150px;
+     background-color: #FAA519;
+     width: 25px;
+     height: 25px;
+     border-radius: 50%;
+ }
+ 
+ .progressbar ul li:nth-child(3):after {
+     position: absolute;
+     content: "";
+     top: -8px;
+     right: 150px;
+     background-color: #E6E6E6;
+     width: 25px;
+     height: 25px;
+     border-radius: 50%;
+ }
+ 
+ .progressbar ul li:nth-child(4):after {
+     position: absolute;
+     content: "";
+     top: -8px;
+     right: -1px;
+     background-color: #E6E6E6;
+     width: 25px;
+     height: 25px;
+     border-radius: 50%;
+ }
+ 
+ .proresslist {
+     width: 923px;
+ }
+ 
+ .proresslist ul {
+     margin: 0;
+     padding: 0;
+     list-style: none;
+ }
+ 
+ .proresslist ul li {
+     float: left;
+ }
+ 
+ .proresslist ul li:nth-child(2) {
+     position: absolute;
+     top: 0;
+     left: 150px;
+ }
+ 
+ .proresslist ul li:nth-child(3) {
+     position: absolute;
+     top: 10px;
+     left: 51%;
+     transform: translate(-50%, -50%);
+ }
+ 
+ .proresslist ul li:nth-child(4) {
+     position: absolute;
+     right: 150px;
+     top: 0;
+ }
+ 
+ .proresslist ul li:nth-child(5) {
+     position: absolute;
+     top: 0;
+     right: 0;
+ }
+ 
+ .location-up ul {
+     margin: 0px;
+     padding: 0px;
+     list-style: none;
+ }
+ 
+ .location-up ul li a {
+     text-decoration: none
+ }
+ 
+ .location-up ul li .btn {
+     padding: .875rem 3rem;
+     margin-top: 8px;
+     background-color: #E2E6EA;
+ }
+ 
+ .livechat {
+     position: fixed;
+     bottom: 50px;
+     right: 50px;
+     font-size: 20px;
+ }
+ 
+ .livechat i {
+     background-color: #729133;
+     color: #fff;
+     width: 40px;
+     height: 40px;
+     text-align: center;
+     line-height: 40px;
+     font-size: 30px;
+     border-radius: 50%;
+ }
+ 
+ .chact-area {
+     padding-top: 40px;
+     padding-bottom: 20px;
+ }
+ 
+ .chat {
+     display: flex;
+     align-items: center;
+     justify-content: end;
+ }
+ 
+ .chat h4 {
+     margin: 0;
+     line-height: 1;
+     text-transform: capitalize;
+     color: #575759;
+     font-weight: 500;
+ }
+ 
+ .chat span {
+     display: inline-block;
+     width: 80px;
+     height: 80px;
+     background: #729133;
+     line-height: 80px;
+     text-align: center;
+     color: #fff;
+     font-size: 20px;
+     border-radius: 100%;
+     margin-left: 15px;
+     cursor: pointer;
+ }
+ 
+ @media(min-width: 768px) and (max-width: 1024px) {
+     .mainprogress {
+         width: 95%;
+     }
+     .proresslist {
+         width: 100%;
+     }
+ }
+ 
+ @media(max-width: 767px) {
+     .mainprogress {
+         width: 90%;
+     }
+     .progressbar ul li:nth-child(2)::after {
+         left: 50px;
+     }
+     .progressbar ul li:nth-child(3)::after {
+         right: 60px;
+     }
+     .proresslist {
+         width: 100%;
+     }
+     .proresslist ul li:nth-child(4) {
+         right: 57px;
+     }
+     .proresslist ul li:nth-child(2) {
+         left: 62px;
+     }
+     .mt-5,
+     .my-5 {
+         margin-top: 2rem !important;
+     }
+     .location-up {
+         width: 100%;
+         padding-bottom: 0px;
+     }
+     .mt-40 {
+         margin-top: 20px;
+     }
+     .livechat {
+         right: 20px;
+     }
+ }

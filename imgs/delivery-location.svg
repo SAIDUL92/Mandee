@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>B4CE6388-6762-413F-B7A5-B669F0564B45</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-656.000000, -616.000000)"></g>
+        <g id="Atoms/Icons/DeliveryLocation" fill-rule="nonzero" fill="#4C4C4E">
+            <g id="Group-2" transform="translate(8.000000, 4.000000)">
+                <path d="M8.4,0 C3.756,0 0,3.756 0,8.4 C0,14.7 8.4,24 8.4,24 C8.4,24 16.8,14.7 16.8,8.4 C16.8,3.756 13.044,0 8.4,0 Z M2.4,8.4 C2.4,5.088 5.088,2.4 8.4,2.4 C11.712,2.4 14.4,5.088 14.4,8.4 C14.4,11.856 10.944,17.028 8.4,20.256 C5.904,17.052 2.4,11.82 2.4,8.4 Z" id="Shape"></path>
+                <circle id="Oval" cx="8.4" cy="8.4" r="3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

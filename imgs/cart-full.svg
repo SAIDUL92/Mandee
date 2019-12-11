@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>FC7488E9-760E-4FAF-B6A7-BCE3508BDB15</title>
+    <desc>Created with sketchtool.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms" transform="translate(-344.000000, -616.000000)"></g>
+        <g id="Atoms/Icons/Cart_Full">
+            <path d="M11.1428571,23.2 C9.83333333,23.2 8.77380952,24.28 8.77380952,25.6 C8.77380952,26.92 9.83333333,28 11.1428571,28 C12.452381,28 13.5238095,26.92 13.5238095,25.6 C13.5238095,24.28 12.452381,23.2 11.1428571,23.2 Z M23.047619,23.2 C21.7380952,23.2 20.6785714,24.28 20.6785714,25.6 C20.6785714,26.92 21.7380952,28 23.047619,28 C24.3571429,28 25.4285714,26.92 25.4285714,25.6 C25.4285714,24.28 24.3571429,23.2 23.047619,23.2 Z M12.452381,17.2 L21.3214286,17.2 C22.2142857,17.2 23,16.708 23.4047619,15.964 L28,7.552 L25.9285714,6.4 L21.3214286,14.8 L12.9642857,14.8 L7.89285714,4 L4,4 L4,6.4 L6.38095238,6.4 L10.6666667,15.508 L9.05952381,18.436 C8.19047619,20.044 9.33333333,22 11.1428571,22 L25.4285714,22 L25.4285714,19.6 L11.1428571,19.6 L12.452381,17.2 Z" id="Shape" fill="#4C4C4E" fill-rule="nonzero"></path>
+            <circle id="Oval" fill="#FAA519" cx="17" cy="6" r="6"></circle>
+            <text id="1" font-family="Assistant-Bold, Assistant" font-size="10" font-weight="bold" line-spacing="8" fill="#FFFFFF">
+                <tspan x="15" y="11">1</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
